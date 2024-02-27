@@ -1,0 +1,12 @@
+main()
+{
+	this is main function
+}
+add()
+{
+	this is add function
+}
+sub()
+{
+	this is sub function
+}
